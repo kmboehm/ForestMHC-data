@@ -1,0 +1,24 @@
+1. Bassani-Sternberg, M. et al. Deciphering HLA-I motifs across HLA peptidomes improves neo-antigen predictions and identifies allostery regulating HLA specificity. (2017). doi:10.1101/098780
+2. Abelin, J. G. et al. Mass Spectrometry Profiling of HLA-Associated Peptidomes in Mono-allelic Cells Enables More Accurate Epitope Prediction. Immunity 46, 315–326 (2017).
+3. Pearson, H. et al. MHC class I–associated peptides derive from selective regions of the human genome. Journal of Clinical Investigation 126, 4690–4701 (2016).
+4. Vizcaíno, J. A. et al. 2016 update of the PRIDE database and its related tools. Nucleic Acids Research 44, (2015).
+5. Vizcaíno, J. A. et al. ProteomeXchange provides globally coordinated proteomics data submission and dissemination. Nature Biotechnology 32, 223–226 (2014).
+6. Shao, W. et al. The SysteMHC Atlas project. Nucleic Acids Research 46, (2017).
+7. Marcilla, M. et al. Comparative Analysis of the Endogenous Peptidomes Displayed by HLA-B*27 and Mamu-B*08: Two MHC Class I Alleles Associated with Elite Control of HIV/SIV Infection. Journal of Proteome Research 15, 1059–1069 (2016).
+8. Marcilla, M. et al. Increased Diversity of the HLA-B40 Ligandome by the Presentation of Peptides Phosphorylated at Their Main Anchor Residue. Molecular & Cellular Proteomics 13, 462–474 (2013).
+9. Alpízar, A. et al. A Molecular Basis for the Presentation of Phosphorylated Peptides by HLA-B Antigens. Molecular & Cellular Proteomics 16, 181–193 (2016).
+10. Shraibman, B., Kadosh, D. M., Barnea, E. & Admon, A. Human Leukocyte Antigen (HLA) Peptides Derived from Tumor Antigens Induced by Inhibition of DNA Methylation for Development of Drug-facilitated Immunotherapy. Molecular & Cellular Proteomics 15, 3058–3070 (2016).
+11. Caron, E. et al. An open-source computational and data resource to analyze digital maps of immunopeptidomes. eLife 4, (2015).
+12. Rozanov, D. V. et al. MHC class I loaded ligands from breast cancer cell lines: A potential HLA-I-typed antigen collection. Journal of Proteomics 176, 13–23 (2018).
+13. Laumont, C. M. et al. Global proteogenomic analysis of human MHC class I-associated peptides derived from non-canonical reading frames. Nature Communications 7, 10238 (2016).
+14. Chong, C. et al. High-throughput and Sensitive Immunopeptidomics Platform Reveals Profound Interferonγ-Mediated Remodeling of the Human Leukocyte Antigen (HLA) Ligandome. Molecular & Cellular Proteomics 17, 533–548 (2017).
+15. Bassani-Sternberg, M. et al. Direct identification of clinically relevant neoepitopes presented on native human melanoma tissue by mass spectrometry. Nature Communications 7, 13404 (2016).
+16. Marino, F. et al. Arginine (Di)methylated Human Leukocyte Antigen Class I Peptides Are Favorably Presented by HLA-B*07. Journal of Proteome Research 16, 34–44 (2016).
+17. Ternette, N. et al. Defining the HLA class I-associated viral antigen repertoire from HIV-1-infected human cells. European Journal of Immunology 46, 60–69 (2015).
+18. Granados, D. P. et al. Impact of genomic polymorphisms on the repertoire of human MHC class I-associated peptides. Nature Communications 5, (2014).
+19. Hassan, C. et al. The Human Leukocyte Antigen–presented Ligandome of B Lymphocytes. Molecular & Cellular Proteomics 12, 1829–1843 (2013).
+20. Ritz, D. et al. High-sensitivity HLA class I peptidome analysis enables a precise definition of peptide motifs and the identification of peptides from cell lines and patients’ sera. Proteomics 16, 1570–1580 (2016).
+21. Khodadoust, M. S. et al. Antigen presentation profiling reveals recognition of lymphoma immunoglobulin neoantigens. Nature 543, 723–727 (2017).
+22. Gloger, A., Ritz, D., Fugmann, T. & Neri, D. Mass spectrometric analysis of the HLA class I peptidome of melanoma cell lines as a promising tool for the identification of putative tumor-associated HLA epitopes. Cancer Immunology, Immunotherapy 65, 1377–1393 (2016).
+23. Mommen, G. P. M. et al. Expanding the detectable HLA peptide repertoire using electron-transfer/higher-energy collision dissociation (EThcD). Proceedings of the National Academy of Sciences 111, 4507–4512 (2014).
+24. Marco, M. D. et al. Unveiling the Peptide Motifs of HLA-C and HLA-G from Naturally Presented Peptides and Generation of Binding Prediction Matrices. The Journal of Immunology 199, 2639–2651 (2017).
